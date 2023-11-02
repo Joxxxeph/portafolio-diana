@@ -774,7 +774,7 @@ education-row .education-column {
 
   .navbar.active {
     left: 0;
-    transition-delay: 0s;
+    transition-delay: 0s; 
   }
 
   .navbar .active-nav {
